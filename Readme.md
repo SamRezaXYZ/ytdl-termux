@@ -17,6 +17,9 @@
 ```
 bash -c "$(curl -fsSL https://bit.ly/install-ytdl-termux)"
 ```
+```
+bash -c "$(curl -fsSL https://is.gd/edDMkk)"
+```
 <h3>Note: You don't need to go out of your way to install python, ffmpeg, etc on termux. The script installs everything</h3>
 
 # Usage
